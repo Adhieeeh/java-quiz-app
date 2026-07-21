@@ -3,7 +3,7 @@
 
 A lightweight terminal application that quizzes users on core Java fundamentals and calculates test scores.
 
-##
+## Preview
 ##  Features
 - Multiple-choice questions with real-time feedback
 - Automatic score tallying and percentage calculation
