@@ -9,6 +9,8 @@ A lightweight terminal application that quizzes users on core Java fundamentals 
 ![](quiz.png)
 
 ##  Features
+
+
 - Multiple-choice questions with real-time feedback
 - Automatic score tallying and percentage calculation
 - Flexible grade pass/fail threshold check
