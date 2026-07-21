@@ -1,5 +1,5 @@
 # Java Basics Quiz Console App
-
+---------------------------------------------------------------------------
 
 A lightweight terminal application that quizzes users on core Java fundamentals and calculates test scores.
 
