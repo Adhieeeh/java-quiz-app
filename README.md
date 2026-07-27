@@ -4,7 +4,7 @@
 A lightweight terminal application that quizzes users on core Java fundamentals and calculates test scores.
 
 ## Preview
------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 ![](quiz.png)
 
