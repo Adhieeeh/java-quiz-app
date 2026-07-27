@@ -16,7 +16,7 @@ A lightweight terminal application that quizzes users on core Java fundamentals 
 - Flexible grade pass/fail threshold check
 
 ##  Concepts Demonstrated
--------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 - **Arrays & Multi-Dimensional Arrays:** Storing formatted questions, multiple choices, and key answers.
 - **String & Char Handling:** Converting user input to uppercase and capturing specific input characters.
